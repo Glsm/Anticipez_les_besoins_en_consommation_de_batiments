@@ -36,7 +36,7 @@ Rénover ces bâtiments sur le modèle des bâtiments à énergie positive
 
 ## Pour plus d'informations
 
-Veuillez consulter mon analyse complète dans [mon Jupyter Notebook](./Notebook_prediction_émissions de CO2.ipynb) ou ma [présentation](./Presentation.pdf). Pour toute question supplémentaire, veuillez contacter avec moi à gulsumkapanoglu@gmail.com.
+Veuillez consulter mon analyse complète dans [mon Jupyter Notebook](./Notebook_prediction_consommation totale d’énergie.ipynb) ou ma [présentation](./Presentation.pdf). Pour toute question supplémentaire, veuillez contacter avec moi à gulsumkapanoglu@gmail.com.
 
 
 Ce travail a été réalisé lors du projet 4 de ma formation Centrale Supèlec et OpenClassrooms de Data Scientist.
