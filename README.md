@@ -1,9 +1,7 @@
 # Anticipez les besoins en consommation de bâtiments
 
 ## Projet4 -Openclassrooms
-
 &nbsp;
-
 **Author:** Gulsum Kapanoglu
 
 ***
