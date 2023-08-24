@@ -5,7 +5,7 @@
 ***
 <img src="img/se.png">
 
-## Description de projet!
+## Description de projet
 En tant que membre de l'équipe en charge de la durabilité environnementale pour la ville de Seattle, notre objectif ambitieux est de parvenir à une neutralité en émissions de carbone d'ici 2050. Pour y parvenir, nous nous concentrons sur la réduction des émissions de CO2 et de la consommation d'énergie des bâtiments non destinés à l'habitation, qui jouent un rôle significatif dans notre empreinte carbone urbaine.
 
 ## Objectif de projets
